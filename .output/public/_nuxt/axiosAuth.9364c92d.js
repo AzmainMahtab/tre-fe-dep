@@ -1,0 +1,1 @@
+import{b as o}from"./axios.932f1ea5.js";import{L as s}from"./entry.dec09927.js";const a=()=>o.create({baseURL:"http://localhost:8000/"}),p=async t=>{const e=s().token;return t.headers={accept:"application/json",Authorization:e},a().request(t)};export{p as m};

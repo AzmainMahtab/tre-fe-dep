@@ -1,0 +1,1 @@
+import{_ as t,t as o,v as s,Z as r}from"./entry.dec09927.js";const n={},c={class:"h-screen w-screen bg-gradient-to-tl from-white to-[#C5F5F9]"};function a(e,l){return o(),s("div",c,[r(e.$slots,"default")])}const d=t(n,[["render",a]]);export{d as default};
