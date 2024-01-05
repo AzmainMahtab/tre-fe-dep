@@ -1,0 +1,1 @@
+import{b as o}from"./axios.932f1ea5.js";import{L as n}from"./entry.57a43c2a.js";const r=()=>o.create({baseURL:"http://165.232.165.193:8000/"}),p=async t=>{const e=n().token;return t.headers={accept:"application/json",Authorization:e},r().request(t)};export{p as m};
